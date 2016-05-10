@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/DerivedData/Alamofire/Build/Products/Debug/Alamofire.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/DerivedData/Alamofire/Build/Intermediates/Alamofire.build/Debug/Alamofire OSX.build/unextended-module.modulemap',
+    }]
+  }]
+}

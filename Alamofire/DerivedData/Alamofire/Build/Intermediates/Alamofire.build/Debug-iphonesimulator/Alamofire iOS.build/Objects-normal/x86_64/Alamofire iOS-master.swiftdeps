@@ -1,0 +1,18 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "16d45260a27cb63adfb6fd7815f4447c"
+build_time: [505368508, 243430000]
+inputs:
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Download.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/ServerTrustPolicy.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Stream.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/MultipartFormData.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/ParameterEncoding.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/ResponseSerialization.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Request.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Alamofire.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Manager.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Response.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Upload.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Error.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Result.swift": [504163979, 0]
+  "/Users/harryzheng/Dropbox/My Documents/Co-curriculumn/Github/iOS/api_framework/Alamofire/Source/Validation.swift": [504163979, 0]
