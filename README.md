@@ -1,2 +1,2 @@
 # OneBusiOS
-iOS application of OneBus https://github.com/FiniteElementries/OneBus
+iOS application of OneBus https://github.com/hazelement/onebus
